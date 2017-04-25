@@ -1,0 +1,20 @@
+{
+  "name": "web-server",
+  "version": "0.0.1",
+  "description": "Servidor Web, continen I.O",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fran",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "find-remove": "^1.0.0",
+    "json-socket": "^0.1.2",
+    "log4js": "^0.6.37",
+    "q": "~1.4.1",
+    "socket.io": "^1.4.6",
+    "underscore": "^1.8.3"
+  }
+}

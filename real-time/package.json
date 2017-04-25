@@ -1,0 +1,31 @@
+{
+  "name": "real-time",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "real",
+    "time"
+  ],
+  "author": "Fran",
+  "license": "MIT",
+  "dependencies": {
+    "dateformat": "^1.0.12",
+    "express": "^4.13.4",
+    "follow-redirects": "0.0.7",
+    "json-socket": "^0.1.2",
+    "jsonfile": "^2.3.0",
+    "log4js": "^0.6.33",
+    "q": "^1.4.1",
+    "request": "^2.79.0",
+    "siege": "^0.2.0",
+    "socket.io": "^1.4.5",
+    "underscore": "^1.8.3",
+    "xml2js": "^0.4.16",
+    "zlib": "^1.0.5"
+  }
+}
